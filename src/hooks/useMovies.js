@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react'
 import axios from 'axios'
 
-const API_KEY = '' // Replace with your actual API key
+const API_KEY = '' // Add you api key 
 const BASE_URL = 'https://api.themoviedb.org/3'
 export const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'
 
